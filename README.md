@@ -12,7 +12,7 @@ The following are some of the variables that can be set to run this script
 
 | Key              | Value                                                                                                                                                 | Example                       |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| SMPT        | the address of the mail server and also the port, this sample using gmail                                                                                                                               | smtp.gmail.com:587 |
+| SMTP        | the address of the mail server and also the port, this sample using gmail                                                                                                                               | smtp.gmail.com:587 |
 | USER    | user used to send email                                                    | user@gmail.com    |
 | PASSWORD         | user password used | Password        |
 
